@@ -1,0 +1,70 @@
+html {
+    overflow: hidden;
+
+}
+
+
+#background {
+    width: 105%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+ #fish1 {
+    position: absolute;
+    width: 20%;
+    top: 60px;
+    right: 200px;
+}
+
+#fish2 {
+    position: absolute;
+    width: 20%;
+    bottom: 60px;
+    left: 500px;
+}
+
+
+#fish3 {
+    position: absolute;
+    width: 20%;
+    top: 350px;
+    left: 205px;
+}
+#bubble1 {
+    position: absolute;
+    width: 25%;
+    bottom: 60px;
+    right: 80px;
+}
+#bubble2 {
+    position: absolute;
+    width: 8%;
+    bottom: 300px;
+    left: 100px;
+}
+#bubble4 {
+    position: absolute;
+    width: 10%;
+    bottom: 40px;
+    left: 400px;
+}
+#bubble5 {
+    position: absolute;
+    width: 20%;
+    bottom: 100px;
+    left: 450px;
+}
+#bubble3 {
+    position: absolute;
+    width: 18%;
+    bottom: 70px;
+    right: 500px;
+} 
+
+
+
+
+
+
